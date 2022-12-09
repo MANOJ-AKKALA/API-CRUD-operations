@@ -1,4 +1,4 @@
-/* 
+
 const express = require("express");
 const mongoose = require('mongoose');
 
@@ -83,4 +83,4 @@ app.delete('/deletestudent/:id', async (request, response) => {
 
 app.listen(8008, () => console.log("Doing Good......"))
 
- */
+ 
